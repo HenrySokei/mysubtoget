@@ -1,0 +1,192 @@
+/* navbar */
+body{
+    text-align: center;
+}
+
+/* @media (min-width:900px) {
+    body{
+        text-align: left;
+    }
+} */
+.sub-brand{
+    padding: 5px 10px;
+    line-height: 2;
+}
+
+.nav-link{
+    padding: 2px 2px;
+    color: white;
+}
+
+/* first section */
+
+#first-section{
+    text-align: center;
+    color: white;
+}
+
+
+.first-section-image{
+    background-size: cover;
+    height: 617px;
+    padding: 80px 0;
+}
+
+h1{
+    font-family: 'Montserrat-Black', sans-serif;
+    font-size: 3rem;
+}
+
+h2{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    color: #1A4D2E;
+}
+
+p{
+    font-family: 'Ubuntu', sans-serif;  
+}
+.first-button{
+    margin: 7px 15px;
+}
+/* 
+
+ /* SECVICE SECTION */
+
+ #services{
+    padding: 7% 15%;
+ }
+
+ .service-mainbox{
+    text-align: center;
+ }
+
+ .service-box{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    margin: 10px;
+    width: 120px;
+    padding: 20px 20px;
+ }
+
+ @media (min-width: 900px) {
+
+    .service-mainbox{
+        float: right;
+        width: 50%;
+        margin-left: 20px;
+    }
+ }
+
+ .best-platform{
+    padding: 20px 0;
+    text-align: center;
+ }
+
+
+
+ /* choose-us */
+
+#choose-us{
+    padding: 7% 15%;
+    background-color: #B8F1B0;
+}
+
+.choose-us-image{
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+@media (min-width:900px) {
+    .choose-us-image{
+        float: right;
+        width: 300px;
+        margin-left: 50px;
+    }
+
+    #choose-us{
+        text-align: right;
+    }
+}
+
+
+/* agent */
+
+#agent{
+    padding: 7% 15%;
+margin-bottom: 70px;
+}
+
+.agent-image{
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+@media (min-width:900px) {
+    .agent-image{
+    float: left;
+    width: 300px;
+    margin-right: 50px;
+    }
+    #agent{
+        text-align: left;
+    }
+}
+
+/* pricing */
+
+#pricing{
+    padding: 7% 15%;
+    background-color: #B8F1B0;
+}
+
+/* test section */
+
+#test{
+    padding: 5% 10%;
+}
+
+.test-images{
+    margin-bottom: 20px;
+}
+
+@media (min-width:900px) {
+    #test{
+        width: 50%;
+        margin: auto;
+    }
+
+    .test-images{
+        width: 300px;
+ 
+    }
+}
+
+
+/* download */
+
+
+#download{
+    background-color: #B8F1B0;
+    padding: 5% 10%;
+}
+
+.what{
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
+
+
+/* footer */
+
+#footer{
+    padding: 5% 10%;
+}
+
+.atage{
+    color: black;
+}
+
+.atage:hover{
+    color: #1A4D2E;
+}
