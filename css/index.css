@@ -124,6 +124,11 @@ p{
     }
 }
 
+@media (max-width:900px) {
+    .choose-us-image{
+      margin: auto;
+    }
+}
 
 /* agent */
 
@@ -145,6 +150,11 @@ margin-bottom: 70px;
     }
     #agent{
         text-align: left;
+    }
+}
+@media (max-width:900px) {
+    .agent-image{
+    margin: auto;
     }
 }
 
