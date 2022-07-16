@@ -59,7 +59,7 @@ p{
 
  @media (max-width:900px) {
     #services{
-        padding: 7% 1%;
+        padding: 7% 0;
         margin: auto;
      }
  }
