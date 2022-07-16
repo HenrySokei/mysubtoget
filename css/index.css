@@ -58,7 +58,7 @@ p{
  }
 
  @media (max-width:900px) {
-    #services{
+    .service-mainbox{
         padding: 7% 0;
         margin: auto;
      }
