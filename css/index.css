@@ -88,6 +88,7 @@ p{
      .service-box{
         width: 35%;
         height: 100PX;
+        margin: auto;
      }
      .service-writing{
         font-size: small;
