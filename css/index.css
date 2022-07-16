@@ -86,12 +86,16 @@ p{
 
  @media (max-width:900px) {
      .service-box{
-        width: 30%;
-        height: 90PX;
+        width: 35%;
+        height: 100PX;
      }
      .service-writing{
         font-size: small;
      }
+     #services{
+        padding: 7% 1%;
+     }
+
  }
 
 
