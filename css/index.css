@@ -54,8 +54,14 @@ p{
  /* SECVICE SECTION */
 
  #services{
-    padding: 7% 2%;
-    margin: auto;
+    padding: 7% 15%;
+ }
+
+ @media (min-width:900px) {
+    #services{
+        padding: 7% 0;
+        text-align: center;
+     }
  }
 
  .service-mainbox{
@@ -148,6 +154,7 @@ margin-bottom: 70px;
 
 .test-images{
     margin-bottom: 20px;
+     width: 50%;
 }
 
 @media (min-width:900px) {
