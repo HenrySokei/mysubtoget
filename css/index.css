@@ -61,6 +61,10 @@ p{
     .service-mainbox{
         margin: auto;
      }
+     #services{
+    padding: 7% 0;
+ }
+
  }
  .service-mainbox{
     text-align: center;
