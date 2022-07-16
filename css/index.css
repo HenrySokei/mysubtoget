@@ -57,9 +57,10 @@ p{
     padding: 7% 15%;
  }
 
- @media (min-width:900px) {
+ @media (max-width:900px) {
     #services{
         padding: 7% 1%;
+        margin: auto;
      }
  }
  .service-mainbox{
