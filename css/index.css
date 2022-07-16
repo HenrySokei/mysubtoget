@@ -57,11 +57,6 @@ p{
     padding: 7% 15%;
  }
 
- @media (max-width:900px) {
-  
-     #services{
-    padding: 7% 0;
- }
 
  }
  .service-mainbox{
@@ -89,6 +84,15 @@ p{
     text-align: center;
  }
 
+ @media (max-width:900px) {
+     .service-box{
+        width: 30%;
+        height: 90PX;
+     }
+     .service-writing{
+        font-size: small;
+     }
+ }
 
 
  /* choose-us */
