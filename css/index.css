@@ -54,7 +54,8 @@ p{
  /* SECVICE SECTION */
 
  #services{
-    padding: 7% 15%;
+    padding: 7% 0;
+    margin: auto;
  }
 
  .service-mainbox{
